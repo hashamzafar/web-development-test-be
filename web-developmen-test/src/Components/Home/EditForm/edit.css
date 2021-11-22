@@ -1,0 +1,16 @@
+.popup {
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 55%;
+	min-height: 35vh;
+
+	align-items: center;
+	background-color: lightgrey;
+	border-radius: 15px;
+	border: 1px solid rgba(0, 0, 0, 0);
+	margin-top: 75px;
+	margin-bottom: 100px;
+	margin-left: 400px;
+	z-index: 2;
+}
